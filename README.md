@@ -1,1 +1,1 @@
-# This is a starting point for any web based projects.
+Small Weather App built in vanilla javascript
