@@ -1,0 +1,1 @@
+# This is a starting point for any web based projects.
